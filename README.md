@@ -1,5 +1,5 @@
 # tesseract
-Text from the image
+Numbers from the images
 
 Link to download: 
 https://tesseract-ocr.github.io/tessdoc/
